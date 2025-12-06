@@ -1,6 +1,8 @@
 # 🏥 SepsisSuite
 ### Advanced Clinical Decision Support System for Sepsis Management
 
+## For full access to the repository, please email your request to ryan.cartularo@gmail.com
+
 ![SepsisSuite Banner](assets/banner.png)
 
 **SepsisSuite** is a production-ready, AI-powered clinical decision support application designed to assist medical professionals in the early detection and management of sepsis. Built with a state-of-the-art **Trimodal Fusion Model**, it integrates vital signs, time-series trends, and clinical notes (NLP) to provide highly accurate risk assessments and antibiotic recommendations.
